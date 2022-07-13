@@ -9,19 +9,20 @@ ol{
 .OnImage{
     margin:20px !important;
     position:absolute;
-    top: 50%;
-    left: 48%;
-    transform: translate(-50%, -50%);
+    top: 50vh;
+    left: 20vw;
+    right:20vw;
     color: white;
     text-align: center;
+    margin: 20px;
 }
 h1{
     text-align: center;
     font-size: 40px;
     position:absolute;
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 40vh;
+    right: 10vw;
+    left: 10vw;
     color: white;
    }
 img{
