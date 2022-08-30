@@ -7,21 +7,17 @@ ol{
     margin-right: 30px; 
 }
 .OnImage{
-    margin:20px !important;
     position:absolute;
-    top: 50vh;
-    left: 20vw;
-    right:20vw;
     color: white;
     text-align: center;
-    margin: 20px;
+    margin-top: 40vw;
 }
 h1{
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 6vw;
     position:absolute;
-    top: 40vh;
+    top: 23vw;
     right: 10vw;
     left: 10vw;
     color: white;
@@ -32,11 +28,12 @@ img{
     width: 100%;
 }
 .image{
-    filter:brightness(0.6);
+    filter:brightness(0.5);
+    height:60vw;
 }
 h2{
     text-align: center;
-    margin-top: 70px !important;
+    margin-top: 50px !important;
     font-style: italic;
     font-size: 40px;
     color:rgb(17, 83, 17)
@@ -47,8 +44,8 @@ h2{
 p{
     font-size: 23px;
     text-align: justify;
-    margin-left: 10vw;
-    margin-right: 10vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
 }
 address{
     margin-left: 20px;
@@ -171,4 +168,11 @@ a:hover{
     font-size: 8vh;
     padding-left: 3vw;
 }
+<<<<<<< HEAD
+.nothing{
+    height: 50vw;
+    width: 80vw;
+}
+=======
 
+>>>>>>> 1d2b33e6ce003c8a4cc030e27e81c195aad8f85f
